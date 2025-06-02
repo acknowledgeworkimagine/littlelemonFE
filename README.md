@@ -3,7 +3,7 @@ Final project for Principles of UX/UI Design
 
 ## Booking a table on the Little Lemon website
 
-### Problem definition
+### Problem
 Little Lemon currently offers no way for diners to reserve a table directly from its mobile website, 
 forcing patrons to call the restaurant or arrive in person and risk waiting. This absence of a mobile-friendly
 booking flow inconveniences guests—who increasingly expect quick, self-service reservations—adds call volume
@@ -12,3 +12,9 @@ to competitors with seamless digital systems. The objective is to design and pro
 branded “Reserve a Table” experience that streamlines the booking process, delights users with intuitive
 interactions and subtle animations, and converts casual browsers into confirmed reservations while meeting
 modern accessibility and performance standards.
+
+### Persona
+
+### Wireframe
+
+### Prototype
