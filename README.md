@@ -15,6 +15,10 @@ modern accessibility and performance standards.
 
 ### Persona
 
+![Little Lemon Persona](https://github.com/acknowledgeworkimagine/littlelemonFE/blob/main/Persona.png)
+
+### Journey Map
+
 ### Wireframe
 
 ### Prototype
