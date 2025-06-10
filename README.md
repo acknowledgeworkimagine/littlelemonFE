@@ -19,6 +19,7 @@ modern accessibility and performance standards.
 
 ### Journey Map
 
+![Little Lemon Customer Journey](https://github.com/acknowledgeworkimagine/littlelemonFE/blob/main/Journey.png)
 ### Wireframe
 
 ### Prototype
