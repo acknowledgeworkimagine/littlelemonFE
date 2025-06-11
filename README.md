@@ -19,7 +19,10 @@ modern accessibility and performance standards.
 
 ### Journey Map
 
-![Little Lemon Customer Journey](https://github.com/acknowledgeworkimagine/littlelemonFE/blob/main/Journey.png)
+<p align="center">
+  <img src="https://github.com/acknowledgeworkimagine/littlelemonFE/blob/main/Journey.png" alt="Centered Image" width="1000"/>
+</p>
+
 
 ### Wireframe
 A wireframe is a low-fidelity prototype used in rapid prototyping to outline the basic structure and layout of a digital product. 
@@ -27,8 +30,8 @@ It focuses on the placement and hierarchy of content and functionality, allowing
 early in the process. Wireframes help teams quickly visualize ideas, collect feedback, and make improvements before investing 
 time and money in full development.
 
+![Little Lemon Wire frame](https://github.com/acknowledgeworkimagine/littlelemonFE/blob/main/Wireframes.png)
 [Little Lemon Wire frame](https://www.figma.com/design/4HZ9xiw1ioMOGM26ol35TQ/Booking-a-Table-Wireframes?node-id=0-1&t=j19snOopFGP6DOhr-1)
-
 
 
 ### Prototype
@@ -36,4 +39,5 @@ A prototype is a scaled-down version of a product used to test ideas, functional
 It can range from a simple paper sketch to a fully interactive digital model. Prototypes help teams identify usability issues early, 
 gather feedback from users or stakeholders, and improve the design quickly and cost-effectively.
 
+![Little Lemon Wire Prototype](https://github.com/acknowledgeworkimagine/littlelemonFE/blob/main/Prototype.png)
 [Little Lemon Wire Prototype](https://www.figma.com/design/dU4fjADVKulTONUcY5FB1q/Booking-Table-Prototype?node-id=0-1&t=hsk7saxcMHhvwkB6-1)
